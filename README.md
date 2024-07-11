@@ -1,2 +1,2 @@
 # currenteducation
-current education syste,
+current education system
